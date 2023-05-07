@@ -2,7 +2,7 @@
 Aircraft,4182,312
 Helicopter,1531,113
 Fighter,773,63
-Dedicated Attack,744,28
-Helicopter Attack,537,33
+Attack,744,28
+Air-Attack,537,33
 trainers,524,71
-transport airtraft,444,26
+airtraft,444,26
